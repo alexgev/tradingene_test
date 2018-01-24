@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
-// import {changeSpread} from '../actions/index';
 
 class List extends Component {
     constructor() {

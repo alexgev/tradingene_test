@@ -1,5 +1,5 @@
 import React from 'react';
-import List from '../containers/ask-list';
+import List from '../containers/list';
 import '../../css/style.css';
 
 const Table = () => {
