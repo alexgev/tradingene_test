@@ -7,10 +7,6 @@ class List extends Component {
         super();
         this.state = {spread: 0};
     }
-    shouldComponentUpdate(){
-        console.log("shouldComponentUpdate()");
-        return true;
-    }
     showAsk() {
         return this.props.ask.map((ask) => {
             return (

@@ -8,13 +8,4 @@ const Table = () => {
     )
 };
 
-// {/* <table>
-//     {/* <tr> */}
-//         <BidList />
-//         {/* <td><BidList /></td> */}
-//     {/* </tr> */}
-// </table> */}
-
-
-
 export default Table;
